@@ -1,6 +1,6 @@
 # IDirekt
 
-Utility to forward emails from [IServ](https://iserv.eu) via a external SMTP server.
+Utility to forward emails from [IServ](https://iserv.eu) via an external SMTP server.
 
 ### Running
 
@@ -9,3 +9,7 @@ Utility to forward emails from [IServ](https://iserv.eu) via a external SMTP ser
 3. Run the Program by using `py main.py`
 
 Whenever you will receive an email, IDirekt will forward it to the recipents specified in the `.env`
+
+### License
+
+This project is licensed entirely under the [MIT License](https://github.com/KotwOSS/IDirekt/blob/main/LICENSE)
